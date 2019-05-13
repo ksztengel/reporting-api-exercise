@@ -1,0 +1,1007 @@
+﻿{
+  "count": 15870,
+  "data": [
+    {
+      "id": "39c130ae-4898-410c-8260-11a085065342",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T17:55:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:05:00.000Z"
+    },
+    {
+      "id": "8a704e79-dae5-4b57-8338-8af506adac5f",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T17:31:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:12:00.000Z"
+    },
+    {
+      "id": "fd01b59f-a455-4463-b83c-aae96ce9d864",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T17:51:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:06:00.000Z"
+    },
+    {
+      "id": "3c62574a-1640-410b-ba39-fcb15cd5d8a2",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T17:55:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:00:00.000Z"
+    },
+    {
+      "id": "34ad8144-6f11-4ddf-92d2-ac44f66f49c6",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T17:52:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:10:00.000Z"
+    },
+    {
+      "id": "83e22930-899f-4b32-be9c-f30537a82333",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T17:47:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:06:00.000Z"
+    },
+    {
+      "id": "bc23e6a4-ad27-4bd8-abc0-1729dc7ed9b8",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T17:48:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T17:01:00.000Z"
+    },
+    {
+      "id": "590585a5-62ce-4c1e-8440-dd859c2b7597",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T18:46:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:04:00.000Z"
+    },
+    {
+      "id": "6524be7d-e192-4048-b400-ff866279301a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T18:36:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:06:00.000Z"
+    },
+    {
+      "id": "bd5e2f5f-f489-4395-9070-47124d6a3a75",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T18:43:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:14:00.000Z"
+    },
+    {
+      "id": "2d3b1b99-475d-41df-a316-75c97665c722",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T18:46:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:00:00.000Z"
+    },
+    {
+      "id": "5bd7f6cd-1f9c-488a-b8fc-f09442ee2278",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T18:59:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:12:00.000Z"
+    },
+    {
+      "id": "dc600fc9-6e39-4e0a-b0cd-8b59dbcae1e3",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T18:34:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:01:00.000Z"
+    },
+    {
+      "id": "ca7f0336-9f6b-47ec-9a09-a3e88144db1b",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T18:34:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:08:00.000Z"
+    },
+    {
+      "id": "15f86fe0-55a5-49f3-84c7-529ed3e0e0f8",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T18:36:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:01:00.000Z"
+    },
+    {
+      "id": "edafd74a-3fc5-4a48-affc-bf901d833ce2",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T18:58:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:05:00.000Z"
+    },
+    {
+      "id": "78b517d6-f954-468e-abd8-24cbf8cd594e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T18:43:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T18:13:00.000Z"
+    },
+    {
+      "id": "13fc4482-72d9-4094-b83c-539f2a0872c6",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T19:43:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:11:00.000Z"
+    },
+    {
+      "id": "53cfa82c-a7f2-4529-8b9f-87e8e2affdc5",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T19:43:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:10:00.000Z"
+    },
+    {
+      "id": "a9f1a53b-d970-485e-9dfa-658e3f34a565",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T19:39:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:02:00.000Z"
+    },
+    {
+      "id": "d73d7d35-7ef3-4d30-a618-f5e1b0438a26",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T19:37:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:14:00.000Z"
+    },
+    {
+      "id": "abfb8945-cce4-4cf9-bb35-d738ab36f40b",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T19:30:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:14:00.000Z"
+    },
+    {
+      "id": "7562e722-0c65-4567-97a3-0a7733466c32",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T19:54:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:07:00.000Z"
+    },
+    {
+      "id": "144b4b40-cc10-445f-9e75-db5eaa48984d",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T19:54:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:04:00.000Z"
+    },
+    {
+      "id": "07b413da-73ba-40ac-9c98-22804a142eec",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T19:47:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:05:00.000Z"
+    },
+    {
+      "id": "12842bf9-5dd0-478e-892a-003e7217f38e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T19:23:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:14:00.000Z"
+    },
+    {
+      "id": "9634fcc9-a486-457d-ba97-c197ee678b1a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T19:35:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:01:00.000Z"
+    },
+    {
+      "id": "1354e6a0-8b13-4e6a-875e-4be539d52595",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T19:32:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:07:00.000Z"
+    },
+    {
+      "id": "c5eae1d9-b15c-43df-a82f-35b2471c0af2",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T19:48:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:00:00.000Z"
+    },
+    {
+      "id": "8655c39e-6859-48a1-83e1-f80345707ca2",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T19:44:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T19:00:00.000Z"
+    },
+    {
+      "id": "cfbbecfa-6be1-4d4c-9758-e4703242b5c8",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T20:24:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T20:09:00.000Z"
+    },
+    {
+      "id": "146e056a-7dcd-4495-9745-d603950a638e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+      "name": "Casey Dondel",
+      "closed": true,
+      "closed_at": "2018-06-01T20:57:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T20:07:00.000Z"
+    },
+    {
+      "id": "1e2565c8-83be-4a3c-83fa-b73c5bc56478",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+      "name": "Sasha Yii",
+      "closed": true,
+      "closed_at": "2018-06-01T20:35:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T20:14:00.000Z"
+    },
+    {
+      "id": "553e5ba4-dac5-4464-a5cb-73d84d398e5a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+      "name": "Andy Bolden",
+      "closed": true,
+      "closed_at": "2018-06-01T20:27:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T20:14:00.000Z"
+    },
+    {
+      "id": "684d7969-dccb-433e-8a38-df03dba1cbef",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T20:57:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T20:08:00.000Z"
+    },
+    {
+      "id": "87c32594-2f8f-4517-932a-1f4b48d411c8",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T21:48:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:04:00.000Z"
+    },
+    {
+      "id": "88c004c7-39a8-4060-98e8-0585b0bd971d",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T21:48:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:07:00.000Z"
+    },
+    {
+      "id": "430ed656-7dab-42ba-a040-e223c773842c",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T21:48:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:03:00.000Z"
+    },
+    {
+      "id": "2da6eaf2-8525-445f-9a9b-fd5f16e44e8b",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T21:51:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:13:00.000Z"
+    },
+    {
+      "id": "6fc7b9ea-617b-4bee-98c1-a72d367b0cd8",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T21:34:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:03:00.000Z"
+    },
+    {
+      "id": "661a20f5-e273-48e4-a0aa-5e283443b81a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T21:33:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:08:00.000Z"
+    },
+    {
+      "id": "9e411fe0-b247-4fce-826f-de72632ff10d",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T21:31:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:03:00.000Z"
+    },
+    {
+      "id": "2ee64154-eb23-4c06-98f9-61f7c202af9a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T21:42:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:12:00.000Z"
+    },
+    {
+      "id": "9060b18f-5b5b-480a-8192-658037b016bb",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T21:57:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:07:00.000Z"
+    },
+    {
+      "id": "d9bcf3a4-80a5-432b-8653-cfa433639763",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T21:49:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:01:00.000Z"
+    },
+    {
+      "id": "235e9031-0a1e-4ceb-a9fb-bc8579307fb4",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T21:48:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:14:00.000Z"
+    },
+    {
+      "id": "d3ce8fb0-c939-4e19-bbe0-8c395a5f9b30",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T21:37:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:01:00.000Z"
+    },
+    {
+      "id": "402dd4ed-a225-46c8-855e-40ad5d19be05",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T21:37:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:11:00.000Z"
+    },
+    {
+      "id": "d62b214a-8ce1-4a57-a760-e4905307b815",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T21:23:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:12:00.000Z"
+    },
+    {
+      "id": "d41fac37-96b5-4819-8a95-3d730086e4f5",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T21:32:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:02:00.000Z"
+    },
+    {
+      "id": "0ea2c96c-3b95-445a-9fe3-dcd4c8ec170f",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T21:35:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:12:00.000Z"
+    },
+    {
+      "id": "96ef3853-b3ef-4181-919b-9637f6eb8cea",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T21:35:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T21:01:00.000Z"
+    },
+    {
+      "id": "36289b0f-7eb1-49b0-91dd-0d26908147a3",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T22:50:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:10:00.000Z"
+    },
+    {
+      "id": "f191286d-fc89-4ef5-8a58-2b24021e7de6",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T22:36:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:14:00.000Z"
+    },
+    {
+      "id": "ac557656-cfa3-41d1-8922-e0dd5c557cb5",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T22:58:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:01:00.000Z"
+    },
+    {
+      "id": "7794e365-0ffe-4cd5-8194-ad2eaa748f3b",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T22:26:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:03:00.000Z"
+    },
+    {
+      "id": "8ec6c51f-f826-4ef6-b396-944791fbc813",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T22:33:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:08:00.000Z"
+    },
+    {
+      "id": "c9019eb0-dcca-48d8-9362-b9a4d0de14fe",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T22:26:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:11:00.000Z"
+    },
+    {
+      "id": "419f9404-1481-46d6-b6d1-30fd32ebb37a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T22:33:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:08:00.000Z"
+    },
+    {
+      "id": "da11d930-96e8-4a7f-947c-14dec5d3c4f2",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T22:43:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:03:00.000Z"
+    },
+    {
+      "id": "3d311326-3fbe-4f01-b84a-959c87036f9e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T22:27:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:12:00.000Z"
+    },
+    {
+      "id": "ccc2f841-2023-455d-acdf-a5f3007b2c33",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T22:42:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:14:00.000Z"
+    },
+    {
+      "id": "df5ff969-3b58-4e52-a454-1271f7146b86",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T22:44:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:05:00.000Z"
+    },
+    {
+      "id": "7b7d5417-02a6-4f6c-99fc-0485efd4fcbc",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T22:47:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:04:00.000Z"
+    },
+    {
+      "id": "b0f6cc11-3206-411d-9346-32f2a051fbfb",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T22:54:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:09:00.000Z"
+    },
+    {
+      "id": "6766a1f4-064c-437e-80da-0c8b2a6e9840",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T22:58:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:11:00.000Z"
+    },
+    {
+      "id": "bb98df9a-8253-47d3-a071-947482994fa1",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T22:45:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T22:11:00.000Z"
+    },
+    {
+      "id": "5eff02dd-0235-4810-95a4-b64058ca8d16",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T23:26:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:06:00.000Z"
+    },
+    {
+      "id": "72b6189a-f37f-419e-9ad3-5eabb2255343",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T23:37:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:13:00.000Z"
+    },
+    {
+      "id": "d25339a4-7a0f-4c0b-b419-4414925e65b9",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T23:51:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:05:00.000Z"
+    },
+    {
+      "id": "186d67b2-bfce-4b1b-aabf-8592ed8b6027",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T23:55:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:06:00.000Z"
+    },
+    {
+      "id": "c0edf922-42d6-48f3-bf02-aefbe050a76e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T23:42:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:08:00.000Z"
+    },
+    {
+      "id": "d06fcd2d-a88b-41ab-a831-93ccf8401983",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T23:46:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:04:00.000Z"
+    },
+    {
+      "id": "c86a6087-b0d2-4da8-9c59-77eed06913e7",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T23:35:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:10:00.000Z"
+    },
+    {
+      "id": "82cba273-7281-41b8-9670-a7b016acc1cf",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T23:55:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:03:00.000Z"
+    },
+    {
+      "id": "ab6d873e-847c-491f-b543-e1c6f3dab04e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T23:52:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:10:00.000Z"
+    },
+    {
+      "id": "ad1022d0-f389-41f9-8e0b-13d546de0d84",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-01T23:27:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:00:00.000Z"
+    },
+    {
+      "id": "edefa1d1-5b30-4473-a4d0-d6d398411aa4",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-01T23:39:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:02:00.000Z"
+    },
+    {
+      "id": "5c172869-4b72-4def-a8d9-50f49567bf27",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-01T23:52:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:12:00.000Z"
+    },
+    {
+      "id": "9836a8c8-38bc-4d5b-a960-f916db417f58",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-01T23:47:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:14:00.000Z"
+    },
+    {
+      "id": "a1443b25-6578-42f1-9f05-84413519d0bf",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-01T23:36:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:02:00.000Z"
+    },
+    {
+      "id": "046e8d94-bef8-4d0b-a617-1a49ea033beb",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-01T23:40:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-01T23:10:00.000Z"
+    },
+    {
+      "id": "b60d91ce-64dd-481f-be30-84a96a227f98",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-02T00:58:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T00:14:00.000Z"
+    },
+    {
+      "id": "1e840366-277a-4bd8-80c7-a70c24afe570",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-02T01:24:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:06:00.000Z"
+    },
+    {
+      "id": "df8deedb-64ac-4e16-982b-8bc0ad3b7e47",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-02T01:38:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:03:00.000Z"
+    },
+    {
+      "id": "b71921c5-e095-42c3-8415-49c6632f792d",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-02T01:26:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:09:00.000Z"
+    },
+    {
+      "id": "ef50a7af-1ecd-428f-abe6-47f0f9eb2e07",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-02T01:47:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:07:00.000Z"
+    },
+    {
+      "id": "0073daa8-a8ba-4562-b435-d124643cc558",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-02T01:28:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:05:00.000Z"
+    },
+    {
+      "id": "8e7d5b6e-974d-451e-bfcf-1de7a057ea3b",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-02T01:27:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:04:00.000Z"
+    },
+    {
+      "id": "53650bfc-04e4-4c58-a91d-3aff0aab6cdc",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-02T01:45:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:05:00.000Z"
+    },
+    {
+      "id": "62094352-def9-4bd0-be00-0ddf78b42e3f",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-02T01:41:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:13:00.000Z"
+    },
+    {
+      "id": "c8e7db25-7193-418d-888b-95891d782c9f",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-02T01:27:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:06:00.000Z"
+    },
+    {
+      "id": "7ba24cb5-c18c-4c91-9cbe-bc22e5439fcc",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-02T01:30:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:04:00.000Z"
+    },
+    {
+      "id": "f87ad939-d1ac-44f6-baa3-a2061d2e79cf",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-02T01:42:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:14:00.000Z"
+    },
+    {
+      "id": "e7886efd-0b55-4e3d-8b43-3c3c04b3cd7f",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+      "name": "Jamey Burr",
+      "closed": true,
+      "closed_at": "2018-06-02T01:43:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:06:00.000Z"
+    },
+    {
+      "id": "5e051a3d-a4ad-452b-bcc6-c88fdb9bf2b9",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+      "name": "Jon Fends",
+      "closed": true,
+      "closed_at": "2018-06-02T01:56:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:06:00.000Z"
+    },
+    {
+      "id": "00fea82e-29d6-4bb5-924e-86cb083fd68a",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+      "name": "Jessica Burrey",
+      "closed": true,
+      "closed_at": "2018-06-02T01:32:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:03:00.000Z"
+    },
+    {
+      "id": "77602d37-9add-4eb0-a092-20761efb914e",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+      "name": "Shawn Saldana",
+      "closed": true,
+      "closed_at": "2018-06-02T01:53:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:14:00.000Z"
+    },
+    {
+      "id": "c1b7c0e4-f9c3-4f0b-a15b-ae441143965b",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+      "name": "Kylo Ren",
+      "closed": true,
+      "closed_at": "2018-06-02T01:38:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:04:00.000Z"
+    },
+    {
+      "id": "79f313b8-7f75-4c27-9ae2-6d5efa12ff3f",
+      "business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+      "employee_id": "6e32c85b-5627-4244-95f6-1372e6a23f3f",
+      "name": "Susan Smarts",
+      "closed": true,
+      "closed_at": "2018-06-02T01:30:00.000Z",
+      "updated_at": "2018-08-01T17:40:22.152Z",
+      "created_at": "2018-06-02T01:09:00.000Z"
+    }
+  ]
+}{
+
+}
