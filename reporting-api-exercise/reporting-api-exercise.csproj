@@ -29,5 +29,6 @@
     <Content Remove="test.json" />
     <Content Remove="AppData\Checks.DataStore.json" />
     <Content Remove="AppData\EmployeesDataStore.json" />
+    <Content Remove="ReportingControllerTests\packages.config" />
   </ItemGroup>
 </Project>

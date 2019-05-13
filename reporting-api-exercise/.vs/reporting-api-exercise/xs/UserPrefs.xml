@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{16946EB3-A7F4-4DFD-82BB-971C451E1A09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReportingControllerTests/ReportingControlllerTests.cs">
+    <Files>
+      <File FileName="Controllers/ReportingController.cs" Line="58" Column="2" />
+      <File FileName="ReportingManager.cs" Line="35" Column="10" />
+      <File FileName="JsonManager.cs" Line="57" Column="10" />
+      <File FileName="Interfaces/IJsonManager.cs" Line="12" Column="11" />
+      <File FileName="Program.cs" Line="19" Column="1" />
+      <File FileName="AppData/OrderedItemsDataStore.json" Line="682" Column="23" />
+      <File FileName="ReportingControllerTests/ReportingControlllerTests.cs" Line="3" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="reporting-api-exercise" expanded="True">
+            <Node name="reporting-api-exercise" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="ReportingControllerTests" expanded="True" />
+            </Node>
+            <Node name="ReportingControllerTests" expanded="True">
+              <Node name="ReportingControlllerTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.reporting-api-exercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingTests/Properties/AssemblyInfo.cs" relfile="ReportingTests/Properties/AssemblyInfo.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReportingControllerTests FirstBuild="True" />
+</Properties>

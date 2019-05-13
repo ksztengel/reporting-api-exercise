@@ -5,6 +5,7 @@ namespace reportingapiexercise.Interfaces
 {
     public interface IReportingManager
     {
-        int GetOrderedPrices();
+        int GetOrderedPrices(string business_id);
     }
 }
+

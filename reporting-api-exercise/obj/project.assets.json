@@ -11797,11 +11797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ksztengel/Projects/reporting-api-exercise/reporting-api-exercise.csproj",
+      "projectUniqueName": "/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/reporting-api-exercise.csproj",
       "projectName": "reporting-api-exercise",
-      "projectPath": "/Users/ksztengel/Projects/reporting-api-exercise/reporting-api-exercise.csproj",
+      "projectPath": "/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/reporting-api-exercise.csproj",
       "packagesPath": "/Users/ksztengel/.nuget/packages/",
-      "outputPath": "/Users/ksztengel/Projects/reporting-api-exercise/obj/",
+      "outputPath": "/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

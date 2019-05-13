@@ -26,3 +26,17 @@
 /Users/ksztengel/Projects/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.RazorTargetAssemblyInfo.cache
 /Users/ksztengel/Projects/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.dll
 /Users/ksztengel/Projects/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.pdb
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/bin/Debug/netcoreapp2.1/reporting-api-exercise.deps.json
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/bin/Debug/netcoreapp2.1/reporting-api-exercise.runtimeconfig.json
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/bin/Debug/netcoreapp2.1/reporting-api-exercise.runtimeconfig.dev.json
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/bin/Debug/netcoreapp2.1/reporting-api-exercise.dll
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/bin/Debug/netcoreapp2.1/reporting-api-exercise.pdb
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.csprojAssemblyReference.cache
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.csproj.CoreCompileInputs.cache
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.RazorAssemblyInfo.cache
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.RazorAssemblyInfo.cs
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.AssemblyInfoInputs.cache
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.AssemblyInfo.cs
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.RazorTargetAssemblyInfo.cache
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.dll
+/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/obj/Debug/netcoreapp2.1/reporting-api-exercise.pdb

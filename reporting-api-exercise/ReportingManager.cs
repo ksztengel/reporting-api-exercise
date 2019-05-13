@@ -20,17 +20,18 @@ namespace reportingapiexercise
 
             _jsonManager = jsonManager;
 
-        }
-       
+        }      
 
         public BusinessRootObject GetBusinessJson()
         {
             return _jsonManager.GetBusinessJson();
         }
 
+
         public LaborEntriesRootObject GetLaborEntriesJson()
         {
             return _jsonManager.GetLaborEntriesJson();
+
         }
 
         public OrderedItemsRootObject GetOrderedItemsJson()
@@ -38,26 +39,15 @@ namespace reportingapiexercise
             return _jsonManager.GetOrderedItemsJson();
         }
 
-        public int GetOrderedPrices()
+        public int GetOrderedPrices(string business_id)
         {
             var priceResult = _jsonManager.GetOrderedItemsJson();
-            var price = priceResult.data.FirstOrDefault().price;
-            var id = priceResult.data.FirstOrDefault().business_id;
 
-            int sum = 0;
-            for (int i = 0; i < 4; i++)
-            {
-                sum += priceResult.data[i].price;
-            }
-            return sum;
+            int priceSum = priceResult.data.Where(p => p.business_id == business_id).ToList().Sum(d => d.price);
 
-            //foreach (int price in priceResult)
-            //{
-            //    sum += price;
-            //}
-            //return sum;
+            return priceSum;
+
         }
-
-
+        
     }
 }

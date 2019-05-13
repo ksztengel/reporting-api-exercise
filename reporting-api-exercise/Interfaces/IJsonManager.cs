@@ -9,8 +9,7 @@ namespace reportingapiexercise.Interfaces
         BusinessRootObject GetBusinessJson();
 
         LaborEntriesRootObject GetLaborEntriesJson();
-
+        //OrderedItemsRootObject GetOrderedItemsJson(string business_id);
         OrderedItemsRootObject GetOrderedItemsJson();
-
     }
 }
