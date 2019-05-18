@@ -37,20 +37,24 @@ namespace reporting_api_exercise.Controllers
 
 
         [HttpGet]
-        public int GetOrderedPrices(string business_id)
+        public int GetEGS(string business_id, string report, string start, string end)
         {
 
-            var result = _reportingManager.GetOrderedPrices(business_id);
+            var result = _reportingManager.GetEGS(business_id, report, start, end);
+
+            //var result2 = _reportingManager.GetPayRate(business_id);
+
+            //var result3 = result2 / result;
 
             return result;
 
         }
 
         [HttpGet()]
-        [Route("{business_id}")]
-        public int GET(string business_id)
+        [Route("{business_id}/{report}")]
+        public int GET(string business_id, string report, string start, string end)
         {
-            var result = _reportingManager.GetOrderedPrices(business_id);
+            var result = _reportingManager.GetEGS(business_id, report, start, end);
             return result;
         }
     }

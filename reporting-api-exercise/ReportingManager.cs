@@ -1,53 +1,126 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using reportingapiexercise.Interfaces;
 using reportingapiexercise.Models;
+using static System.Linq.Enumerable;
+using static reportingapiexercise.Models.ChecksDTO;
+
 
 namespace reportingapiexercise
 {
-    public class ReportingManager : IReportingManager 
+
+    public class ReportingManager : IReportingManager
     {
 
         private readonly IJsonManager _jsonManager;
+        private int laborCost;
+        private int totalSales;
+        private int totalCost;
+        private int grossSales;
+        private string id;
+        private string name;
+
 
         public ReportingManager(IJsonManager jsonManager)
         {
 
             _jsonManager = jsonManager;
 
-        }      
-
-        public BusinessRootObject GetBusinessJson()
-        {
-            return _jsonManager.GetBusinessJson();
         }
 
-
-        public LaborEntriesRootObject GetLaborEntriesJson()
+        public ReportingManager()
         {
-            return _jsonManager.GetLaborEntriesJson();
-
         }
 
-        public OrderedItemsRootObject GetOrderedItemsJson()
+        int IReportingManager.GetLCP(string business_id, string report, string start, string end)
         {
-            return _jsonManager.GetOrderedItemsJson();
-        }
 
-        public int GetOrderedPrices(string business_id)
-        {
+            //get hours worked
+            var laborResult = _jsonManager.GetLaborEntriesJson();
+
+            //DateTime startTime = DateTime.Parse(start);
+            //DateTime endTime = DateTime.Parse(end);
+
+            laborResult.data.ForEach((entry) =>
+            {
+
+                if (entry.clock_out > entry.clock_in)
+
+                {
+
+                    int hours = (int)(entry.clock_out - entry.clock_in).TotalHours;
+                    laborCost += entry.pay_rate * hours;
+
+                };
+
+
+            });
+
+            //get total sales
+
             var priceResult = _jsonManager.GetOrderedItemsJson();
+            priceResult.data.ForEach((order) =>
+            {
 
-            int priceSum = priceResult.data.Where(p => p.business_id == business_id).ToList().Sum(d => d.price);
+                totalSales += order.price;
+            });
 
-            return priceSum;
-
+            return (laborCost / totalSales) * 100;
         }
-        
+
+
+
+        int IReportingManager.GetFCP(string business_id, string report, string start, string end)
+        {
+
+            //get food cost/sales
+            var foodResult = _jsonManager.GetOrderedItemsJson();
+
+            foodResult.data.ForEach((item) =>
+            {
+                totalCost += item.cost;
+                totalSales += item.price;
+            });
+
+            return (totalCost / totalSales) * 100;
+        }
+
+
+
+        int IReportingManager.GetEGS(string business_id, string report, string start, string end)
+        {
+            //get gross sales
+
+            var employeeResults = _jsonManager.GetEmployeeJson();
+
+            employeeResults.data.ForEach((employee) =>
+            {
+                id = employee.id;
+                name = employee.first_name + " " + employee.last_name;
+
+                var foodResult = _jsonManager.GetOrderedItemsJson();
+
+                foodResult.data.ForEach((item) =>
+
+                {
+                    if (item.employee_id == id)
+                    {
+                        grossSales += item.price;
+                    }
+
+                });
+            });
+
+
+            return grossSales;
+        }
+
     }
 }

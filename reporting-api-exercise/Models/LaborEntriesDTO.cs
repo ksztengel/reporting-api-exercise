@@ -29,21 +29,18 @@ namespace reportingapiexercise.Models
             public DateTime created_at { get; set; }
         }
 
-        public class LaborEntriesRootObject : IEnumerable<int>
+        public class LaborEntriesRootObject 
         {
             public int count { get; set; }
-            public List<LaborEntriesDTO> data { get; set; }
+            public List<LaborEntriesDTO> data =
+            new List<LaborEntriesDTO>();
 
-        public IEnumerator<int> GetEnumerator()
+        public virtual IEnumerator GetEnumerator()
         {
-            throw new NotImplementedException();
-        }
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return GetEnumerator();
+            return this.data.GetEnumerator();
         }
     }
-    }
+
+}
 
 

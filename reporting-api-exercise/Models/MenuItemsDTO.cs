@@ -1,12 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace reportingapiexercise.Models
 {
     public class MenuItemsDTO
     {
-        public class Datum
-        {
             public string id { get; set; }
             public string business_id { get; set; }
             public string name { get; set; }
@@ -16,10 +15,16 @@ namespace reportingapiexercise.Models
             public DateTime created_at { get; set; }
         }
 
-        public class RootObject
+        public class MenuItemsRootObject
         {
             public int count { get; set; }
-            public List<Datum> data { get; set; }
+            public List<MenuItemsDTO> data =
+            new List<MenuItemsDTO>();
+
+        public virtual IEnumerator GetEnumerator()
+        {
+            return this.data.GetEnumerator();
         }
     }
 }
+

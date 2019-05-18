@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using reportingapiexercise.Models;
+using static reportingapiexercise.Models.ChecksDTO;
 
 namespace reportingapiexercise.Interfaces
 {
@@ -9,7 +10,14 @@ namespace reportingapiexercise.Interfaces
         BusinessRootObject GetBusinessJson();
 
         LaborEntriesRootObject GetLaborEntriesJson();
-        //OrderedItemsRootObject GetOrderedItemsJson(string business_id);
+
         OrderedItemsRootObject GetOrderedItemsJson();
+
+        ChecksRootObject GetChecksJson();
+
+        EmployeesRootObject GetEmployeeJson();
+
+        MenuItemsRootObject GetMenuItemsJson();
+
     }
 }

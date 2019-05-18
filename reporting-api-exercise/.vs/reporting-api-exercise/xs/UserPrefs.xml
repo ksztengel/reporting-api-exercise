@@ -1,25 +1,26 @@
 ﻿<Properties StartupConfiguration="{16946EB3-A7F4-4DFD-82BB-971C451E1A09}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReportingControllerTests/ReportingControlllerTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReportingManager.cs">
     <Files>
-      <File FileName="Controllers/ReportingController.cs" Line="58" Column="2" />
-      <File FileName="ReportingManager.cs" Line="35" Column="10" />
-      <File FileName="JsonManager.cs" Line="57" Column="10" />
-      <File FileName="Interfaces/IJsonManager.cs" Line="12" Column="11" />
+      <File FileName="Controllers/ReportingController.cs" Line="52" Column="1" />
+      <File FileName="ReportingManager.cs" Line="114" Column="22" />
+      <File FileName="Interfaces/IJsonManager.cs" Line="24" Column="1" />
+      <File FileName="Models/LaborEntriesDTO.cs" Line="44" Column="2" />
+      <File FileName="Interfaces/IReportingManager.cs" Line="18" Column="1" />
       <File FileName="Program.cs" Line="19" Column="1" />
-      <File FileName="AppData/OrderedItemsDataStore.json" Line="682" Column="23" />
-      <File FileName="ReportingControllerTests/ReportingControlllerTests.cs" Line="3" Column="11" />
+      <File FileName="Models/LCPDTO.cs" Line="10" Column="1" />
+      <File FileName="AppData/EmployeeDataStore.json" Line="1" Column="1" />
+      <File FileName="JsonManager.cs" Line="86" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="reporting-api-exercise" expanded="True">
             <Node name="reporting-api-exercise" expanded="True">
+              <Node name="AppData" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Interfaces" expanded="True" />
-              <Node name="ReportingControllerTests" expanded="True" />
-            </Node>
-            <Node name="ReportingControllerTests" expanded="True">
-              <Node name="ReportingControlllerTests.cs" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ReportingManager.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -35,8 +36,14 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingTests/Properties/AssemblyInfo.cs" relfile="ReportingTests/Properties/AssemblyInfo.cs" line="20" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="115" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/Controllers/ReportingController.cs" relfile="Controllers/ReportingController.cs" line="49" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="103" column="54" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="105" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="106" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="108" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="110" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ReportingControllerTests FirstBuild="True" />
 </Properties>

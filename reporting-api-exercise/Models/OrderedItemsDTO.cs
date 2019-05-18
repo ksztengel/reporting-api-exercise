@@ -36,7 +36,6 @@ namespace reportingapiexercise.Models
 
         public class OrderedItemsRootObject
     {
-
         public int count { get; set; }
         public List<OrderedItemsDTO> data = 
             new List<OrderedItemsDTO>();

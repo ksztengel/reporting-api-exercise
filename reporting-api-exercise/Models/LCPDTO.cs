@@ -7,8 +7,9 @@ namespace reportingapiexercise.Models
     {
         public TimeFrame timeFrame { get; set; }
         public double value { get; set; }
+
     }
-    public class TimeFrame
+    public class TimeFrameLCP
         {
             public DateTime start { get; set; }
             public DateTime end { get; set; }
