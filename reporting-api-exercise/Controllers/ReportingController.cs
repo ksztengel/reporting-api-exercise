@@ -37,29 +37,65 @@ namespace reporting_api_exercise.Controllers
 
 
         [HttpGet]
-        public int GetEGS(string business_id, string report, string start, string end)
-        {
 
-            var result = _reportingManager.GetEGS(business_id, report, start, end);
+        public string GetReports(string business_id, string report, string interval, string start, string end)
+        {   if (report == null)
+            {
+                return "Please add a report name:  LCP FCP  or EGS";
 
-            //var result2 = _reportingManager.GetPayRate(business_id);
+                    //add a .resx file to store error messages and use @ReportAPIErrors.report, .interval, .start
 
-            //var result3 = result2 / result;
+            };
 
-            return result;
+            if (report == "LCP")
+            {
+
+                var result = _reportingManager.GetLCP(business_id, report, interval, start, end);
+
+
+                return JsonConvert.SerializeObject(result);
+            }
+
+
+
+            else if (report == "FCP")
+
+            {
+
+                var result = _reportingManager.GetFCP(business_id, report, interval, start, end);
+
+                return JsonConvert.SerializeObject(result);
+
+            }
+            else
+
+            {
+
+                var result = _reportingManager.GetEGS(business_id, report, interval, start, end);
+
+                return JsonConvert.SerializeObject(result);
+
+            }
 
         }
 
         [HttpGet()]
-        [Route("{business_id}/{report}")]
-        public int GET(string business_id, string report, string start, string end)
+        [Route("{business_id}/{report}/{interval}/{start}/{end}")]
+        public ReportRootObject GET(string business_id, string report, string interval, string start, string end)
         {
-            var result = _reportingManager.GetEGS(business_id, report, start, end);
+            var result = _reportingManager.GetLCP(business_id, report, interval, start, end);
             return result;
         }
+
     }
 
+
+
 }
+
+
+
+
 
 
 

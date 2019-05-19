@@ -18,9 +18,6 @@ namespace reportingapiexercise
 {
     public class JsonManager : IJsonManager
     {
-        public JsonManager()
-        {
-        }
 
         public BusinessRootObject GetBusinessJson()
         {

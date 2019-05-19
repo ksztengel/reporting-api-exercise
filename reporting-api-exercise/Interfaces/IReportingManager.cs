@@ -7,11 +7,14 @@ namespace reportingapiexercise.Interfaces
 {
     public interface IReportingManager
     {
-        int GetLCP(string business_id, string report, string start, string end);
+        ReportRootObject GetLCP(string business_id, string report, string interval, string start, string end);
 
-        int GetFCP(string business_id, string report, string start, string end);
+        ReportRootObject GetFCP(string business_id, string report, string interval, string start, string end);
 
-        int GetEGS(string business_id, string report, string start, string end);
+        EmployeeRootObject GetEGS(string business_id, string report, string interval, string start, string end);
+
+
     }
+
 }
 
