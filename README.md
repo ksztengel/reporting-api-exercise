@@ -17,6 +17,10 @@ Visual Studio 2019 is required to run this repo.
 * Changing IDEs when it's an important project.  Visual Studio for Mac is NOT created equal to the enterprise version I'm used to.
 * Unit Tests.  I added the setup for Unit Tests in an early commit and had an issue with an Assembly that I didn't get back to.
 * Everything takes longer than you think and my api is definitely MVP.  
-
+### TO DO
+* Unit Tests
+* Error handling
+* Ask product about interval
+* More data
 
 
