@@ -104,22 +104,15 @@ namespace reportingapiexercise
             ReportDTO rptDTO = new ReportDTO();
 
             {
-                rptDTO.timeFrame = tf;
-                rptDTO.value = value;
+                value = (int)rptDTO.value;
+                tf = rptDTO.timeFrame;
 
             }
 
             List<ReportDTO> rptList = new List<ReportDTO>();
             {
 
-                rptList.ForEach((item) =>
-
-                {
-                    tf = item.timeFrame;
-
-                    value = (int)item.value;
-
-                });
+                rptList.Add(new ReportDTO());
             }
 
             ReportRootObject rpt = new ReportRootObject();
@@ -156,32 +149,28 @@ namespace reportingapiexercise
 
             var value = (totalCost / totalSales) * 100;
 
+
             ReportTimeFrame tf = new ReportTimeFrame();
             {
                 tf.start = startTime;
-                tf.end = endTime;
+                //tf.end = endTime;
             }
 
             ReportDTO rptDTO = new ReportDTO();
 
             {
-                rptDTO.timeFrame = tf;
-                rptDTO.value = value;
+                value = (int)rptDTO.value;
+                tf = rptDTO.timeFrame;
+
 
             }
 
             List<ReportDTO> rptList = new List<ReportDTO>();
             {
+                rptList.Add(new ReportDTO());
 
-                rptList.ForEach((item) =>
-
-                {
-                    tf = item.timeFrame;
-
-                    value = (int)item.value;
-
-                });
             }
+
 
             ReportRootObject rpt = new ReportRootObject();
             {
@@ -232,7 +221,7 @@ namespace reportingapiexercise
             var employee = name;
             var value = grossSales;
 
-           
+
             EmployeeTimeFrame tf = new EmployeeTimeFrame();
             {
                 tf.start = startTime;
@@ -241,37 +230,32 @@ namespace reportingapiexercise
 
             EmployeeReportDTO erptDTO = new EmployeeReportDTO();
             {
-                erptDTO.timeFrame = tf;
-                erptDTO.employee = name;
-                erptDTO.value = value;
+                tf = erptDTO.timeFrame;
+                name = erptDTO.employee;
+                value = (int)erptDTO.value;
             }
 
             List<EmployeeReportDTO> erptList = new List<EmployeeReportDTO>();
             {
 
-                erptList.ForEach((item) =>
-
-                {
-                    tf = item.timeFrame;
-
-                    value = (int)item.value;
-
-                });
-
-                EmployeeRootObject erpt = new EmployeeRootObject();
-                {
-                    erpt.report = "EGS";
-                    erpt.timeInterval = interval;
-                    erpt.data = erptList;
-
-
-                }
-                return erpt;
+                erptList.Add(new EmployeeReportDTO());
             }
 
 
+            EmployeeRootObject erpt = new EmployeeRootObject();
+            {
+                erpt.report = "EGS";
+                erpt.timeInterval = interval;
+                erpt.data = erptList;
+
+
+            }
+            return erpt;
         }
+
+
     }
-
-
 }
+
+
+

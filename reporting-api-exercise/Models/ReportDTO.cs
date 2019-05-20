@@ -16,6 +16,7 @@ namespace reportingapiexercise.Models
     }
     public class ReportDTO
     {
+
         public ReportTimeFrame timeFrame { get; set; }
         public double value { get; set; }
 
