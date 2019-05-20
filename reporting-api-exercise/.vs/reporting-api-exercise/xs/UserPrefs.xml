@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Models/EmployeeReportDTO.cs">
     <Files>
       <File FileName="Controllers/ReportingController.cs" Line="44" Column="1" />
-      <File FileName="ReportingManager.cs" Line="192" Column="1" />
-      <File FileName="Models/ReportDTO.cs" Line="24" Column="34" />
-      <File FileName="Models/EmployeeReportDTO.cs" Line="15" Column="39" />
+      <File FileName="ReportingManager.cs" Line="259" Column="2" />
+      <File FileName="Models/EmployeeReportDTO.cs" Line="21" Column="6" />
+      <File FileName="Models/EmployeeDTO.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -32,9 +32,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingTests/Properties/AssemblyInfo.cs" relfile="ReportingTests/Properties/AssemblyInfo.cs" line="20" column="1" />
-      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="193" column="1" />
-      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="187" column="1" />
-      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="135" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="254" column="1" />
+      <Breakpoint file="/Users/ksztengel/Projects/LCPreport/reporting-api-exercise/reporting-api-exercise/ReportingManager.cs" relfile="ReportingManager.cs" line="128" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

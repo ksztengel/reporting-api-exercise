@@ -18,10 +18,10 @@ namespace reportingapiexercise
     {
 
         private readonly IJsonManager _jsonManager;
-        private int laborCost;
-        private int totalSales;
-        private int totalCost;
-        private int grossSales;
+        private double laborCost;
+        private double totalSales;
+        private double totalCost;
+        private double grossSales;
         private string id;
         private string name;
 
@@ -104,7 +104,7 @@ namespace reportingapiexercise
             ReportDTO rptDTO = new ReportDTO();
 
             {
-                value = (int)rptDTO.value;
+                value = rptDTO.value;
                 tf = rptDTO.timeFrame;
 
             }
@@ -112,7 +112,7 @@ namespace reportingapiexercise
             List<ReportDTO> rptList = new List<ReportDTO>();
             {
 
-                rptList.Add(new ReportDTO());
+                rptList.Add(rptDTO);
             }
 
             ReportRootObject rpt = new ReportRootObject();
@@ -144,30 +144,31 @@ namespace reportingapiexercise
 
                 totalCost += item.cost;
                 totalSales += item.price;
+               
 
             });
 
             var value = (totalCost / totalSales) * 100;
-
+            //ReportTimeFrame timeFrame;
 
             ReportTimeFrame tf = new ReportTimeFrame();
             {
                 tf.start = startTime;
-                //tf.end = endTime;
+                tf.end = endTime;
             }
 
             ReportDTO rptDTO = new ReportDTO();
 
             {
-                value = (int)rptDTO.value;
-                tf = rptDTO.timeFrame;
+                rptDTO.timeFrame = tf;
+                rptDTO.value = value;
 
 
             }
 
             List<ReportDTO> rptList = new List<ReportDTO>();
             {
-                rptList.Add(new ReportDTO());
+                rptList.Add(rptDTO);
 
             }
 
@@ -199,8 +200,8 @@ namespace reportingapiexercise
 
             employeeResults.data.ForEach((emp) =>
             {
-                if (emp.updated_at >= startTime && emp.updated_at <= endTime)
-                {
+                //if (emp.updated_at >= startTime && emp.updated_at <= endTime)
+
                     id = emp.id;
                     name = emp.first_name + " " + emp.last_name;
 
@@ -215,7 +216,7 @@ namespace reportingapiexercise
                         }
 
                     });
-                };
+                
             });
 
             var employee = name;
@@ -230,15 +231,15 @@ namespace reportingapiexercise
 
             EmployeeReportDTO erptDTO = new EmployeeReportDTO();
             {
-                tf = erptDTO.timeFrame;
-                name = erptDTO.employee;
-                value = (int)erptDTO.value;
+                erptDTO.timeFrame = tf;
+                erptDTO.employee = name;
+                erptDTO.value = value;
             }
 
             List<EmployeeReportDTO> erptList = new List<EmployeeReportDTO>();
             {
 
-                erptList.Add(new EmployeeReportDTO());
+                erptList.Add(erptDTO);
             }
 
 
