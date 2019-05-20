@@ -10,6 +10,7 @@ Visual Studio 2019 is required to run this repo.
 * What's in these objects.  I played around to make sure I could grab what I needed out of the objects and then loop thru them.
 * Time for the logic.  Started with LCP and worked thru the other too reports.
 * Send it to the front.  Put the results of the logic into the ReportDTOs, serialize and send it back.
+* Example URI.  http://localhost:{port}/api/reporting/?business_id=b2aeb27b-c85c-4ad8-83d4-d9511063d418&report=EGS&interval=hours&start=2018-05-01T00:00:00.000Z&end=2018-05-26T00:00:00.000Z
 ### WHAT WENT WELL
 * Great exercise for me.  I have a new appreciation of what it takes to build something from scratch and of what my current application provides for me to work with.
 * Had some fun and frustration and I got thru it.
